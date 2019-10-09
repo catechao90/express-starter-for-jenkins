@@ -1,0 +1,4 @@
+{
+  "name": "express-jenkins-starter",
+  "script": "bin/www"
+}
